@@ -83,7 +83,7 @@ class SamplerCallback(Callback):
 
 # Set paramters and Sample from the model
 sampler_callback = SamplerCallback()
-model.fit(X, y, epochs= 2, batch_size=256, callbacks= [sampler_callback])
+model.fit(X, y, epochs= 30, batch_size=256, callbacks= [sampler_callback])
 
 generated_text = sample_from_model(model, sample_length= 1000)
 print('\nGenerated Text')
