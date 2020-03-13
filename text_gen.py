@@ -40,8 +40,6 @@ model.add(Dense(vocab_size))
 model.add(Activation('softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 
-model.fit(X, y, epochs= 2, batch_size=256)
-
 
 #
 #   Generates and returns sample text from the model
