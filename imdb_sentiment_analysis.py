@@ -7,6 +7,8 @@ from keras.preprocessing import sequence
 VOCAB_SIZE = 5000   # Number of words to load
 INDEX_FROM = 3      # Start at 3 to account for padding/unknown, & start of sentence
 MAX_SEQ_LEN = 128   # Max input length
+EMBEDDING_DIM = 64  # 
+
 
 # Load and assign dataset
 (X_train, y_train), (X_test, y_test) = imdb.load_data(num_words=VOCAB_SIZE, index_from=INDEX_FROM)
@@ -18,9 +20,28 @@ idx_to_word[0] = '<PAD>'
 idx_to_word[1] = '<START>'
 idx_to_word[2] = '<UNK>'
 
+# Fit sequences to max length
 X_train = sequence.pad_sequences(X_train, maxlen=MAX_SEQ_LEN)
 X_test = sequence.pad_sequences(X_test, maxlen=MAX_SEQ_LEN)
 
+# Specify the model
+model = Sequential()
+model.add(Embedding(VOCAB_SIZE, EMBEDDING_DIM, input_length=MAX_SEQ_LEN))
+model.add(LSTM(128))
+model.add(Dense(1, activation='sigmoid'))
+
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+print(model.summary())
+
+tensorboard = keras.callbacks.TensorBoard(log_dir='sentiment_logs')
+
+model.fit(X_train, y_train, epochs=20, batch_size=256, validation_split=0.2, callbacks=[tensorboard])
+
+score = model.evaluate(X_test, y_test)
+
+print('Accuracy: {0:.4f'.format(score[1]))
+
+
 # Print result
-print(' '.join([idx_to_word[idx] for idx in X_train[0]]))
+#print(' '.join([idx_to_word[idx] for idx in X_train[0]]))
 
