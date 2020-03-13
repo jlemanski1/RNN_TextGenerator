@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+sentiment_logs/events.out.tfevents.1584057404.XPS13
+
+*.XPS13
