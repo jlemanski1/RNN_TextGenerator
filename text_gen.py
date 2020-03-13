@@ -29,7 +29,7 @@ num_sentences = len(sentences)
 X = np.zeros((num_sentences, sentence_length, vocab_size), dtype= np.bool)
 y = np.zeros((num_sentences, vocab_size), dtype= np.bool)
 for i, sentence in enumerate(sentences):
-    for t, char in enumerate(sentences):
+    for t, char in enumerate(sentence):
         X[i, t, char_to_idx[char]] = 1
     y[i, char_to_idx[next_chars[i]]] = 1
 
