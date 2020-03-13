@@ -88,7 +88,7 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Prequisite: Anaconda Python environment with numpy & matplotlib
+Prequisite: Anaconda Python environment with numpy & matplotlib Open terminal and pip install tensorflow & keras
 
 ```bash
 source activate ENV_NAME
