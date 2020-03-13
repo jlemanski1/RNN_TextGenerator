@@ -52,19 +52,42 @@ def sample_from_model(mode, sample_length= 100):
     seed_sentence = corpus[seed: seed + sentence_length]
 
     X_pred = np.zeros((1, sentence_length, vocab_size), dtype= np.bool)
+    # Sample by index
     for t, char in enumerate(seed_sentence):
         X_pred[0, t, char_to_idx[char]] = 1
     
     generated_text = ''
 
+    # Use reversed dictionary to form the sentence
     for i in range(sample_length):
         prediction = np.argmax(model.predict(X_pred))
 
         generated_text += idx_to_char[prediction]
 
+        # Update model to learn from samples made
         activation = np.zeros((1, 1, vocab_size), dtype= np.bool)
         activation[0, 0, prediction] = 1
         X_pred = np.concatenate((X_pred[:, 1:, :], activation), axis= 1)
     
     return generated_text
 
+
+#
+#   Text Generator Callback. Called on end of every epoch
+#
+class SamplerCallback(Callback):
+    def on_epoch_end(self, epoch, logs):
+        generated_text = sample_from_model(self.model)
+        print('\nGenerated Text')
+        print('-' * 32)
+        print(generated_text)
+
+
+# Set paramters and Sample from the model
+sampler_callback = SamplerCallback()
+model.fit(X, y, epochs= 30, batch_size=256, callbacks= [sampler_callback])
+
+generated_text = sample_from_model(model, sample_length= 1000)
+print('\nGenerated Text')
+print('-' * 32)
+print(generated_text)
