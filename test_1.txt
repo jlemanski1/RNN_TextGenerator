@@ -1,0 +1,277 @@
+Epoch 1/30
+100220/100220 [==============================] - 171s 2ms/step - loss: 2.7439
+
+Generated Text
+--------------------------------
+ the the the the the the the the the the the the the the the the the the the the the the the the the
+Epoch 2/30
+100220/100220 [==============================] - 163s 2ms/step - loss: 2.1480
+
+Generated Text
+--------------------------------
+the the the the the the the the the sere,
+  The the the the the the the the the the sere,
+  The the
+Epoch 3/30
+100220/100220 [==============================] - 167s 2ms/step - loss: 2.0001
+
+Generated Text
+--------------------------------
+he the the the the the the the the thee,
+  And the the the the the the the the thee,
+  And the the t
+Epoch 4/30
+100220/100220 [==============================] - 168s 2ms/step - loss: 1.9116
+
+Generated Text
+--------------------------------
+t the seath the seath the seat,
+  And the the the the the the the the thee thee,
+  And the the the t
+Epoch 5/30
+100220/100220 [==============================] - 167s 2ms/step - loss: 1.8435
+
+Generated Text
+--------------------------------
+e she the sear,
+    The with the sur the sur the sur the seare,
+    The with the sur the sur the sur
+Epoch 6/30
+100220/100220 [==============================] - 166s 2ms/step - loss: 1.7876
+
+Generated Text
+--------------------------------
+he with the will the will the will the will steen,
+  And the will the will the will the will thee th
+Epoch 7/30
+100220/100220 [==============================] - 160s 2ms/step - loss: 1.7365
+
+Generated Text
+--------------------------------
+ove the sead,
+    That the seave the sull the seave the seave,
+    That the seave the sull the seave
+Epoch 8/30
+100220/100220 [==============================] - 159s 2ms/step - loss: 1.6932
+
+Generated Text
+--------------------------------
+the sull my love,
+  And the sull my love the sull my love the seart,
+  And the sull my love the sull
+Epoch 9/30
+100220/100220 [==============================] - 159s 2ms/step - loss: 1.6536
+
+Generated Text
+--------------------------------
+ere thee thee thee so thee,
+  The with the worth the worth the worth thee so dee,
+  The will be the
+Epoch 10/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.6375
+
+Generated Text
+--------------------------------
+ the will the will the will the will bear,
+  The will the will the will the will be the sund
+  The w
+Epoch 11/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.5872
+
+Generated Text
+--------------------------------
+that thou art the self thee see,
+    The earth that thou art the self the self doth live,
+  And thou
+Epoch 12/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.5583
+
+Generated Text
+--------------------------------
+eart the world that the strenger,
+  And the strenge the strenge the strenged thee,
+    The earth the
+Epoch 13/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.5282
+
+Generated Text
+--------------------------------
+the beauty see,
+    The beauty shall be the proud that should be.
+
+  XXXXII
+
+  When thou art thou ar
+Epoch 14/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.5009
+
+Generated Text
+--------------------------------
+thou art the world that thou art the strenge.
+
+  LXXII
+
+  The will my love the world that thou art t
+Epoch 15/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.4760
+
+Generated Text
+--------------------------------
+sweet so the with the still,
+  And the sunder then my self the world thee,
+  And the sunder then my
+Epoch 16/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.4467
+
+Generated Text
+--------------------------------
+the dear words the sweet so do the still,
+  The world with the to my self the worth,
+  And then my l
+Epoch 17/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.4206
+
+Generated Text
+--------------------------------
+hall be the should to brease,
+    The could the subless with the the should be dose,
+    And there i
+Epoch 18/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.3930
+
+Generated Text
+--------------------------------
+,
+  And there the starn the summer's from thy state,
+  And there the starn the summer's from thy sta
+Epoch 19/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.3665
+
+Generated Text
+--------------------------------
+ my love thee for my sight,
+  And to the world the sun my love shall stay
+  That thou art the farthe
+Epoch 20/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.3398
+
+Generated Text
+--------------------------------
+ the beauty shall my love sweet self disseeds.
+
+  CXXXVII
+
+  Thou art thy self thy self thy self thy
+Epoch 21/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.3124
+
+Generated Text
+--------------------------------
+nd the summer's freend.
+  Then shall seef the beauty shall see the strengther's state,
+    And she t
+Epoch 22/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.2842
+
+Generated Text
+--------------------------------
+he stand with the beting thee,
+  And therefore the beauty should the bear,
+  That the strength the b
+Epoch 23/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.2551
+
+Generated Text
+--------------------------------
+ and see,
+  The stars the self thy self they see against
+  The self thy self they shall well be the
+Epoch 24/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.2260
+
+Generated Text
+--------------------------------
+have storn the worth,
+    And then my love is thy beauty that they see,
+    The worth the world with
+Epoch 25/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.1968
+
+Generated Text
+--------------------------------
+ave sweets bears.
+    Then thou art the world with the world and steen.
+  The world that thou dost t
+Epoch 26/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.1669
+
+Generated Text
+--------------------------------
+ love's,
+  And therefore to the beauty of the summer'd
+  The restill of thy poseess the summer stay.
+Epoch 27/30
+100220/100220 [==============================] - 155s 2ms/step - loss: 1.1364
+
+Generated Text
+--------------------------------
+asure of the world and wrend.
+
+  LXXXII
+
+  I may the world what I hove shall not thee,
+  And therefo
+Epoch 28/30
+100220/100220 [==============================] - 155s 2ms/step - loss: 1.1050
+
+Generated Text
+--------------------------------
+oth thou art as the sweet some in my,
+  And purses for a some foull my song thee,
+  When thou art th
+Epoch 29/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.0734
+
+Generated Text
+--------------------------------
+h they that which shall be deceivest,
+  And so the summer of thy self and thine eyes,
+    And they t
+Epoch 30/30
+100220/100220 [==============================] - 154s 2ms/step - loss: 1.0426
+
+Generated Text
+--------------------------------
+her part,
+  And stall the summer stand with this more,
+  And that thou shelt self thou shalt self a
+
+Generated Text
+--------------------------------
+ot thou art all,
+  That so my self the strong must decease,
+  For thou art the summer on thy shade will;
+  And then my frown, and the dear love's fillest be.
+    Then that I have showe and see my love and,
+    And thee, and the still the former to be.
+
+  LXXII
+
+  Thou art a faurt which I am date
+  Than thou art that which thou dost seef heart,
+    And the first my love shall dear foldermeng.
+  XXXII
+
+  Thou art as false world with that I do have,
+  And thou are falles with my lovers gon's,
+  To make the summer shall be the summer,
+  Which have a sweethours with a gad as one,
+  The both the sweet so strong mend of thee,
+  And therefore that which it which still with thee,
+  When I am so my love, and therefore showes,
+  And such a mad a founders of thy sight,
+  And that thou dost seef holone on the day,
+  And that thou dost seef hold and her sweet
+  To make the world with the world and all,
+  The some such absent stranged from thee:
+  Then that for love, that I am not the dead,
