@@ -1,0 +1,645 @@
+Epoch 1/100
+78228/78228 [==============================] - 128s 2ms/step - loss: 2.9568
+
+Generated Text
+--------------------------------
+o the the the the the the the the the the the the the the the the the the the the the the the the th
+Epoch 2/100
+78228/78228 [==============================] - 130s 2ms/step - loss: 2.1525
+
+Generated Text
+--------------------------------
+" "LUKE" "What the the the the the the the the the the the the the the the the the the the the the t
+Epoch 3/100
+78228/78228 [==============================] - 129s 2ms/step - loss: 1.9399
+
+Generated Text
+--------------------------------
+ure the sere the sere the sere the sere the sere the sere the sere the sere the sere the sere the se
+Epoch 4/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.8221
+
+Generated Text
+--------------------------------
+  I don't here the sere the sere the sere the sere the sere the sere the sere the sere the sere the 
+Epoch 5/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.7373
+
+Generated Text
+--------------------------------
+1" "LUKE" "I the mest the mane the mane the mane the mane the mane the mane the mane the mane the ma
+Epoch 6/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.6656
+Generated Text
+--------------------------------
+I can the sere all the sere all the sere all the sere all the sere all the sere all the sere all the
+Epoch 7/100
+78228/78228 [==============================] - 128s 2ms/step - loss: 1.6023
+
+Generated Text
+--------------------------------
+38" "LUKE" "What where are the mast of the mest of the mest of the mest of the mest of the mest of t
+Epoch 8/100
+78228/78228 [==============================] - 128s 2ms/step - loss: 1.5472
+
+Generated Text
+--------------------------------
+4" "LUKE" "What have the mast the mast the mast the mast the mast the mast the mast the mast the masEpoch 9/10078228/78228 [==============================] - 128s 2ms/step - loss: 1.4976
+
+Generated Text
+--------------------------------
+ut of the Rebellion a ship the seater and the seater and the seater and the seater and the seater an
+Epoch 10/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.4514Generated Text
+--------------------------------
+ I can't seat of the Empire the stace on the mare the mare the mare the mare the mare the mare the m
+Epoch 11/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.4063
+
+Generated Text
+--------------------------------
+HREEPIO" "I can't see the main the reall a droid and I can go a bet of the recare and the reace and 
+Epoch 12/100
+78228/78228 [==============================] - 125s 2ms/step - loss: 1.3633
+
+Generated Text
+--------------------------------
+imes to the real the seation a troust the ship the ship the ship the ship the ship the ship the ship
+Epoch 13/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.3225
+
+Generated Text--------------------------------in.  I have to sead of the standing the down the dond of the standing the down the dond of the stand
+Epoch 14/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.2829
+
+Generated Text
+--------------------------------
+e Rebellion a stack and the restrice.  I wast to the reading the restrice.  I can't see in the restr
+Epoch 15/100
+78228/78228 [==============================] - 126s 2ms/step - loss: 1.2437
+
+Generated Text
+--------------------------------
+ you this station in the restroin the ship the restroine seredo the ship the restroine seredo the sh
+Epoch 16/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.2081
+
+Generated Text
+--------------------------------
+the read your fighter sead on the seation."
+"100" "OWEN" "It's tor any one there we'll be see the st
+Epoch 17/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.1674
+
+Generated Text
+--------------------------------
+ter to sere and I then the fare as and my fighter ship computer."
+"264" "LUKE" "What are you going t
+Epoch 18/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.1290
+
+Generated Text
+--------------------------------
+I think the more that make the morning the planet want to this thing that way on the planet."
+"272"
+Epoch 19/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.0900
+
+Generated Text
+--------------------------------
+riends are coming of the Empire with you."
+"800" "LUKE" "I can't see it!  What the comen did a thous
+Epoch 20/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.0528
+
+Generated Text
+--------------------------------
+k."
+"72" "LUKE" "What are you going?"
+"72" "LUKE" "What are you going?"
+"72" "LUKE" "What are you go
+Epoch 21/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 1.0124
+
+Generated Text
+--------------------------------
+UKE" "It looks like your fowers.  I want to get of the strains.  It's the droid shiples wast and the
+Epoch 22/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.9726
+
+Generated Text
+--------------------------------
+LUKE" "I want to got you see that this things to the Academy next seed to the thope one sire of a si
+Epoch 23/100
+78228/78228 [==============================] - 126s 2ms/step - loss: 0.9328
+
+Generated Text
+--------------------------------
+is a dincer.  The Force is with you."
+"800" "LUKE" "I think you wore the bows from been ships.  I th
+Epoch 24/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.8966
+
+Generated Text
+--------------------------------
+ to me of this station is completer to here than you remord the some of the Rebel base, in the cantu
+Epoch 25/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.8574
+
+Generated Text
+--------------------------------
+ it.  It sure is a lot of fire with me..."
+"553" "HAN" "I don't know him!  I'm going to do a simence
+Epoch 26/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.8203
+
+Generated Text
+--------------------------------
+"LUKE" "What are you talking about?  I'm going to fight to go be able to pry worn."
+"850" "LUKE" "I
+Epoch 27/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.7828
+
+Generated Text
+--------------------------------
+ar in the station."
+"100" "THREEPIO" "I see the rest man ence the rest and not go dond it it."
+"841"
+Epoch 28/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.7494
+
+Generated Text
+--------------------------------
+ I'm not getting to take that one ship... they're not and the restion like your father."
+"388" "LUKE
+Epoch 29/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.7152
+
+Generated Text
+--------------------------------
+right, I'll be right about them."
+"741" "HAN" "What are you talking about?"
+"110" "LUKE" "Help me, O
+Epoch 30/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.6809
+
+Generated Text
+--------------------------------
+000" "LUKE" "What are you talking about?"
+"110" "LUKE" "I was tranglers another there.  I should hav
+Epoch 31/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.6482
+
+Generated Text
+--------------------------------
+old you to forget it!"
+"23" "THREEPIO" "I see you know who have freende things a bat long aiveror th
+Epoch 32/100
+78228/78228 [==============================] - 125s 2ms/step - loss: 0.6156
+
+Generated Text
+--------------------------------
+he pease on the surface."
+"282" "BEN" "I seem to hild of this ship compurion."
+"100" "THREEPIO" "I s
+Epoch 33/100
+78228/78228 [==============================] - 124s 2ms/step - loss: 0.5875
+
+Generated Text
+--------------------------------
+ same the extlucted stick off this some about this porterstand the oned to be the ond you.  If you d
+Epoch 34/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.5555
+
+Generated Text
+--------------------------------
+" "LEIA" "Look, I didn't coming in."
+"888" "LUKE" "I think you are waster to the power of the messig
+Epoch 35/100
+78228/78228 [==============================] - 122s 2ms/step - loss: 0.5308
+
+Generated Text
+--------------------------------
+"584" "LUKE" "You bet I could have to stoll you.  It's not in there will getting by?"
+"822" "LUKE" "
+Epoch 36/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.5052
+
+Generated Text
+--------------------------------
+e the garage the comivired blast that in he sagget is tower..."
+"195" "OWEN" "What are we going to b
+Epoch 37/100
+78228/78228 [==============================] - 122s 2ms/step - loss: 0.4847
+
+Generated Text
+--------------------------------
+mand I've been the next sen.  It's not to de more space on a stachtrop drapter the greater blast thr
+Epoch 38/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.4594
+
+Generated Text
+--------------------------------
+aid it, sir.  I've nother wend you sire to his fermery aro..."
+"197" "OWEN" "I have to maly ond it a
+Epoch 39/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.4364
+
+Generated Text
+--------------------------------
+art of this ship checke."
+"725" "LUKE" "What's this?"
+"749" "THREEPIO" "I don't know, I reflee the w
+Epoch 40/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.4150
+
+Generated Text
+--------------------------------
+t of his dife... this sigled and in there are sede.  This is all your sedoth price.. Ondy are the sh
+Epoch 41/100
+78228/78228 [==============================] - 122s 2ms/step - loss: 0.3965
+
+Generated Text
+--------------------------------
+t's this to go bean is recomed."
+"381" "LUKE" "I don't see a thing in fighters.  I'm a get it with y
+Epoch 42/100
+78228/78228 [==============================] - 122s 2ms/step - loss: 0.3770
+
+Generated Text
+--------------------------------
+ll you this.  It fighters at taken in repleien of the Empire."
+"233" "LUKE" "I want to come with you
+Epoch 43/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.3584
+
+Generated Text
+--------------------------------
+A" "Then thanking me."
+"960" "GOLD LEADER" "We're starting for the target of anythirgation.  Whis al
+Epoch 44/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.3380
+
+Generated Text
+--------------------------------
+rtant?  What's he carrying?"
+"788" "LEIA" "There are twint we aly going to frint here."
+"250" "LUKE"
+Epoch 45/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.3278
+
+Generated Text
+--------------------------------
+e down side of sy.  You must revers buck!"
+"802" "TARKIN" "You must have ittomation.  I thought you
+Epoch 46/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.3116
+
+Generated Text
+--------------------------------
+e your follever them."
+"147" "LUKE" "I anderith you right away."
+"1009" "LEIA" "He plesaing in the c
+Epoch 47/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.2923
+
+Generated Text
+--------------------------------
+ down thas sone."
+"231" "TAGGE" "That's impossible!  For'l there weans your be down sir.  In riggh,
+Epoch 48/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.2827
+
+Generated Text
+--------------------------------
+ could he be folling aport this is and he trangs in the main computer."
+"218" "LUKE" "Oh, no!"
+"201"
+Epoch 49/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.2735
+
+Generated Text
+--------------------------------
+"
+"550" "HAN" "It's too dangerous fire chell oundin a trauship runting computer."
+"10" "THREEPIO" "I
+Epoch 50/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.2568
+
+Generated Text
+--------------------------------
+evea out on the power.  It's a scall one yourself.  I find the moon if I destrace in my first minuy,
+Epoch 51/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.2444
+
+Generated Text
+--------------------------------
+84" "LEIA" "Their tracking us!"
+"58" "THREEPIO" "Are you aurn't have boing that way.  You mait be a
+Epoch 52/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.2406
+
+Generated Text
+--------------------------------
+here anything I might do to he carsain makithoppert.  There's no seculd about his for ship and got i
+Epoch 53/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.2288
+
+Generated Text
+--------------------------------
+en that'll be the changer to back to us."
+"495" "HAN" "I don't know, I can for me computer."
+"898" "
+Epoch 54/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.2166
+
+Generated Text
+--------------------------------
+n.  This you know what he's talking about?"
+"137" "LUKE" "But he myed fatt rangs.  The Dart.  Tell f
+Epoch 55/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.2110
+
+Generated Text
+--------------------------------
+ind of talk is that?"
+"450" "HAN" "Don't worry, I think your rearmoned from one sir, I never a droid
+Epoch 56/100
+78228/78228 [==============================] - 122s 2ms/step - loss: 0.2020
+
+Generated Text
+--------------------------------
+outer rim territories."
+"821" "VADER" "I have you now."
+"935" "BIGGS" "Wait, that?"
+"657" "HAN" "Yes
+Epoch 57/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1921
+
+Generated Text
+--------------------------------
+eamed to this ship by Rebel spies.  I want to know what happened to the plans they sent you."
+"44" "
+Epoch 58/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1838
+
+Generated Text
+--------------------------------
+"329" "LUKE" "I told you to all right."
+"831" "LUKE" "I can't see it!  Where is the computer on our
+Epoch 59/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.1822
+
+Generated Text
+--------------------------------
+tter than I thought.  Try and hold them off.  Angle the deflector shield while I make the canceled t
+Epoch 60/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.1738
+
+Generated Text
+--------------------------------
+too, tran my with your father."
+"396" "LUKE" "I think we aum alt your pirstacting that're found thro
+Epoch 61/100
+78228/78228 [==============================] - 127s 2ms/step - loss: 0.1661
+
+Generated Text
+--------------------------------
+ fee my dent, then you scoull droid.  You're you to fut it somerter, I hople atay."
+"381" "BEN" "You
+Epoch 62/100
+78228/78228 [==============================] - 126s 2ms/step - loss: 0.1744
+
+Generated Text
+--------------------------------
+in a big hurrestand you've to clurse."
+"169" "LUKE" "It wish I was but the Rebellion in our shint sh
+Epoch 63/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1675
+
+Generated Text
+--------------------------------
+u'll be malfunctioning withing Sarking and will pline to be a delaghion the surfor, I think I can be
+Epoch 64/100
+78228/78228 [==============================] - 122s 2ms/step - loss: 0.1509
+
+Generated Text
+--------------------------------
+."
+"78" "LUKE" "arouther wolld it?"
+"579" "HAN" "I think he thought he was.  Next time don't send on
+Epoch 65/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1377
+
+Generated Text
+--------------------------------
+ul than."
+"337" "HUMAN" "You'll be thene I haven't found the bogious.  We're going to find a power b
+Epoch 66/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1815
+
+Generated Text
+--------------------------------
+" "VADER" "They mught leave that whin the Rebellion aiteroine semestion from her."
+"379" "I PEREAD O
+Epoch 67/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1466
+
+Generated Text
+--------------------------------
+ook, I didn't could alous the ship and going to frinn minuse... a cever a prosor trough as unch you.
+Epoch 68/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1217
+
+Generated Text
+--------------------------------
+ much of his father in him."
+"107" "OWEN" "I have no my easige."
+"536" "THREEPIO" "I can't abade.  I
+Epoch 69/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1046
+
+Generated Text
+--------------------------------
+"TARKIN" "I think it is time we demonstrate the full power of this station.Set your course for Princ
+Epoch 70/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1082
+
+Generated Text
+--------------------------------
+ the battle station."
+"806" "DODONNA" "Only a precise hit will set up ancale them."
+"16" "THREEPIO"
+Epoch 71/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1291
+
+Generated Text
+--------------------------------
+ "LEIA" "There are sixters, we aight have plans age for mught computer cherce."
+"820" "DODTE" "Astow
+Epoch 72/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1705
+
+Generated Text
+--------------------------------
+ng to have to learn what seems to be importace in here."
+"285" "THREEPIO" "I don't think so, sir.  I
+Epoch 73/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1556
+
+Generated Text
+--------------------------------
+t off!"
+"691" "THREEPIO" "Where are you going?"
+"57" "THREEPIO" "Well, I'm not going that way.  You
+Epoch 74/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1139
+
+Generated Text
+--------------------------------
+on alert!"
+"625" "VADER" "And what I didn't help about it."
+"70" "LUKE" "I don't lear."
+"982" "BEN"
+Epoch 75/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0813
+
+Generated Text
+--------------------------------
+ some old debts I've got to pay off with this stuff.  Even if I didn't, you don't think I'd be fool
+Epoch 76/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0760
+
+Generated Text
+--------------------------------
+"139" "LUKE" "Hello."
+"140" "LUKE" "You got a lot of carbon scoring here.  It looks like you don't w
+Epoch 77/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0979
+
+Generated Text
+--------------------------------
+"775" "LUKE" "That's it!  We did it!"
+"776" "LEIA" "What's wroin?  I'm only him!"
+"736" "LUKE" "Wher
+Epoch 78/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1686
+
+Generated Text
+--------------------------------
+e've lost lateral controls."
+"770" "HAN" "Stands your right about this!"
+"543" "BEN" "You can't pres
+Epoch 79/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1528
+
+Generated Text
+--------------------------------
+lfunctioning within a daight plocing to that all right?"
+"862" "LUKE" "All right."
+"681" "LUKE" "The
+Epoch 80/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0998
+
+Generated Text
+--------------------------------
+o as I tell you.  Okay?"
+"710" "HAN" "Look, Your Worshipfungers!"
+"671" "TROOPER" "We don't need to
+Epoch 81/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0604
+
+Generated Text
+--------------------------------
+t voyage.  A person of some importance, sir - I believe.  Our captain was attached to..."
+"156" "LUK
+Epoch 82/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0463
+
+Generated Text
+--------------------------------
+ember, the Force will be with you... always."
+"1001" "LEIA" "Luke!  Luke!  Luke!"
+"1002" "HAN" "Hey!
+Epoch 83/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0435
+
+Generated Text
+--------------------------------
+r."
+"539" "THREEPIO" "The tractor beam is coupled to the main reactor in seven locations.  A powernl
+Epoch 84/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1172
+
+Generated Text
+--------------------------------
+inner."
+"118" "OWEN" "Luke, go the last time done.  I'm going to caur mean intree straigg, we'll be
+Epoch 85/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.3083
+
+Generated Text
+--------------------------------
+es about up."
+"817" "LUKE" "Well, I should be able to plany or maiks on your sauplicat a anatrayour
+Epoch 86/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1409
+
+Generated Text
+--------------------------------
+ations."
+"412" "OFFICER" "To your stations!"
+"515" "LUKE" "Why wild they light fault!  Will ag appoc
+Epoch 87/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0717
+
+Generated Text
+--------------------------------
+n.  He has too much of his father in him."
+"197" "OWEN" "That's what I'm afraid of."
+"198" "LUKE" "W
+Epoch 88/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0428
+
+Generated Text
+--------------------------------
+s a long way from here.  I doubt if re... it was fantastic."
+the Empire would even fight to keep  li
+this system.  Believe me Luk
+Epoch 95/100
+78228/78228 [==============================] - 122s 2ms/step - loss: 0.6216Generated Text
+--------------------------------
+ere beamed to this planet."
+"829" "LUKE" "I'm here to your exenct on dissalon station."
+"501" "HAN"
+Epoch 96/10078228/78228 [==============================] - 123s 2ms/step - loss: 0.4384
+
+Generated Text
+--------------------------------rcalp?  This is all your uncle was one stat of a callon time.  Send a detroace with all Alderaan.""
+Epoch 97/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1935
+
+Generated Text--------------------------------" "Any attack made by the Rebels against this station would be a useless gesture, no matter what the
+Epoch 98/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.1003
+Generated Text--------------------------------
+ven't been the same since you left, Biggs.  It's been so...quiet."
+"71" "BIGGS" "Luke, I didn't come
+Epoch 99/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0591Generated Text
+--------------------------------
+alter time, speed up the harvest, or teleport me off this rock!""132" "THREEPIO" "I don't think so,Epoch 100/100
+78228/78228 [==============================] - 123s 2ms/step - loss: 0.0379
+
+Generated Text
+--------------------------------
+r.  Some kind of asteroid collision.  It's not on any of the charts."
+"478" "LUKE" "What's going on?
+
+Generated Text--------------------------------EEPIO" "Several, I think.  Actually, there's not much to tell.  I'm not much more than an interpreter, and not very good at telling stories.  Well, not at making them interesting, anyways."
+"146" "LUKE" "Well, my little friend, you've got something jammed in here real good.  Were you on a starcruiser or..."
+"147" "LEIA" "Help me, Obi-Wan Kenobi..."
+"155" "THREEPIO" "I think she was a passenger on our last voyage.  A person of some importance, sir - I believe.  Our captain was attached to..."
+"156" "LUKE" "Is there more to this recording?""157" "THREEPIO" "Behave yourself, Artoo.  You're going to get us in trouble.  It's all right, you can trust him.  He's our new master."
+"158" "THREEPIO" "He says he's the property of Obi-Wan Kenobi, a resident of these parts.  And it's a private message for him.  Quite frankly, sir, I don't know what he's talking about.  Our last master was Captain Antilles, but with what we've been through, this little R2 unit has become a bit eccentric."
+"159" "LUK

@@ -5,7 +5,7 @@ from keras.callbacks import Callback
 from random import randint
 
 # Open Trainging Dataset
-with open('sonnets.txt', 'r') as file:
+with open('TrainingData/sonnets.txt', 'r') as file:
     corpus = file.read()
 
 # Extract unqie chars to list
@@ -83,9 +83,10 @@ class SamplerCallback(Callback):
 
 # Set paramters and Sample from the model
 sampler_callback = SamplerCallback()
-model.fit(X, y, epochs= 30, batch_size=256, callbacks= [sampler_callback])
+model.fit(X, y, epochs= 50, batch_size=256, callbacks= [sampler_callback])
 
-generated_text = sample_from_model(model, sample_length= 1000)
+# Get final sample and print
+generated_text = sample_from_model(model, sample_length= 1500)
 print('\nGenerated Text')
 print('-' * 32)
 print(generated_text)

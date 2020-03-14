@@ -1,0 +1,460 @@
+Epoch 1/50
+100220/100220 [==============================] - 180s 2ms/step - loss: 2.6998
+
+Generated Text
+--------------------------------
+or the the the the the the the the the the the the the the the the the the the the the the the the t
+Epoch 2/50
+100220/100220 [==============================] - 178s 2ms/step - loss: 2.1352
+
+Generated Text
+-------------------------------- The the the the the the the the the the thee seathe seathe seathe seathe seathe seathe seathe seath
+Epoch 3/50
+100220/100220 [==============================] - 178s 2ms/step - loss: 1.9837
+
+Generated Text
+--------------------------------
+ the meres and thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee 
+Epoch 4/50
+100220/100220 [==============================] - 178s 2ms/step - loss: 1.8993
+
+Generated Text
+--------------------------------
+ see,
+  The sould the sear the sear the sear and bear,
+  The sould the sear the sear the sear and be   
+Epoch 5/50
+100220/100220 [==============================] - 178s 2ms/step - loss: 1.8332
+
+Generated Text
+--------------------------------
+hath thee,
+  And the stor she the stor she the she the stee,
+    The she the store the store the sto
+Epoch 6/50
+100220/100220 [==============================] - 178s 2ms/step - loss: 1.7731
+
+Generated Text
+--------------------------------
+ke the seall the seall the prouse thee,
+    Then the seall the seall the seall the prowe,
+    Then t
+Epoch 7/50
+100220/100220 [==============================] - 179s 2ms/step - loss: 1.7222
+
+Generated Text
+--------------------------------
+ the sun the storn thee,
+    The part the part the part the part the prowned,
+  And the thee the wil
+Epoch 8/50
+100220/100220 [==============================] - 180s 2ms/step - loss: 1.6770
+
+Generated Text
+--------------------------------
+ve the proust the proust the proust the prous,       
+  And the thee the store the proust the proust to be.
+Epoch 9/50
+100220/100220 [==============================] - 179s 2ms/step - loss: 1.6366
+
+Generated Text
+--------------------------------
+the the then the stall the sealles of thee,
+  The can the stall the sealles of thee,   
+  The can the s
+Epoch 10/50
+100220/100220 [==============================] - 173s 2ms/step - loss: 1.6005
+
+Generated Text
+--------------------------------
+ the world the store,
+  And the world the seaver the seaver thee,
+  And the world the seaver the sea
+Epoch 11/50
+100220/100220 [==============================] - 174s 2ms/step - loss: 1.5679
+
+Generated Text
+--------------------------------
+ove the thee thou heart thou art thou art the show
+    The seefther with the sender and the send     
+  T
+Epoch 12/50
+100220/100220 [==============================] - 173s 2ms/step - loss: 1.5359
+
+Generated Text
+--------------------------------
+o for the will of the will of the will streng,      
+    Then the will with the will of the will of thee,
+
+Epoch 13/50
+100220/100220 [==============================] - 173s 2ms/step - loss: 1.5065
+
+Generated Text
+--------------------------------
+e my love the love, and the will heart thou streng
+    That thou art the world with the will heart t 
+Epoch 14/50
+100220/100220 [==============================] - 172s 2ms/step - loss: 1.4768
+
+Generated Text
+--------------------------------
+ the world then thou art thee.
+
+  XXII
+
+  Thou art thou art thou art thou art thee,
+  Thou art the w
+Epoch 15/50
+100220/100220 [==============================] - 172s 2ms/step - loss: 1.4476
+
+Generated Text
+--------------------------------
+ look'd from thee,
+    And the world with the world with the self sore,
+  And so the world with the
+Epoch 16/50
+100220/100220 [==============================] - 174s 2ms/step - loss: 1.4199
+
+Generated Text
+--------------------------------
+the world with thee that the stare thee,
+  And then the thee thee that thee thee thee thee,
+  When t
+Epoch 17/50
+100220/100220 [==============================] - 175s 2ms/step - loss: 1.3928
+
+Generated Text
+--------------------------------
+me,
+  Which that thee that thee that thee thee thee thee,
+    That then thee that thee that thee the
+Epoch 18/50
+100220/100220 [==============================] - 176s 2ms/step - loss: 1.3654
+
+Generated Text
+--------------------------------
+s those my love, that thou art thou art thee,
+    Then thou should that see the dost thou should
+  T
+Epoch 19/50
+100220/100220 [==============================] - 175s 2ms/step - loss: 1.3380
+
+Generated Text
+--------------------------------
+ar her fair the world with the self to chee,
+    And the world with the fair and the world to me.
+
+
+Epoch 20/50
+100220/100220 [==============================] - 175s 2ms/step - loss: 1.3091
+
+Generated Text
+--------------------------------
+I am not so my sun other graces,
+  And to the stars that thou art thou shouldst stand,
+    And then
+Epoch 21/50
+100220/100220 [==============================] - 174s 2ms/step - loss: 1.2802
+
+Generated Text
+--------------------------------
+orth the condented,
+  And that which thou art thoughts to me doth sing.
+    Then fair the world with
+Epoch 22/50
+100220/100220 [==============================] - 176s 2ms/step - loss: 1.2506
+
+Generated Text
+--------------------------------
+or grain the world with the self art sore,
+  The ofe the self with the self all thy sight,
+    And t
+Epoch 23/50
+100220/100220 [==============================] - 176s 2ms/step - loss: 1.2198
+
+Generated Text
+--------------------------------
+therefore thou self torghe,
+    And then thou shalt shall I think on thee shall strange.
+
+  XXII
+
+
+Epoch 24/50
+100220/100220 [==============================] - 176s 2ms/step - loss: 1.1883
+
+Generated Text
+--------------------------------
+Then make the sur of which I think on thee,
+  When I have should thou should thou shouldst state,
+
+Epoch 25/50
+100220/100220 [==============================] - 174s 2ms/step - loss: 1.1570
+
+Generated Text
+--------------------------------
+do mine,
+    And they my love shall not thy self are seen,
+    And they most thou thou dost too me w
+Epoch 26/50
+100220/100220 [==============================] - 175s 2ms/step - loss: 1.1256
+
+Generated Text
+--------------------------------
+hat thou thou dast thee thou desire,
+    And see my self thou dast the world when thought,
+  In mine
+Epoch 27/50
+100220/100220 [==============================] - 175s 2ms/step - loss: 1.0899
+
+Generated Text
+--------------------------------
+eart in the storn,
+  And some in the world whose black night but lies.
+    Then thou art my beauty t
+Epoch 28/50
+100220/100220 [==============================] - 174s 2ms/step - loss: 1.0592
+
+Generated Text
+--------------------------------
+resure then shall shall the world,
+    And no shors who great of me that still wit,
+    And dear the
+Epoch 29/50
+100220/100220 [==============================] - 172s 2ms/step - loss: 1.0254
+
+Generated Text
+--------------------------------
+th lie.
+
+  CXXVIII
+
+  Thou art thou shalt shall I think on thee
+  That thou art thoughts, so day thy
+Epoch 30/50
+100220/100220 [==============================] - 173s 2ms/step - loss: 0.9925
+
+Generated Text
+--------------------------------
+ And do the stranges and tongue than still,
+  The world to be the dorn who sen in ole,
+  The proud o
+Epoch 31/50
+100220/100220 [==============================] - 174s 2ms/step - loss: 0.9573
+
+Generated Text
+--------------------------------
+r their receive.
+
+  CXXXIII
+
+  Thy grast with makest thou gaves the winder chils,
+  To see thou gave
+Epoch 32/50
+100220/100220 [==============================] - 177s 2ms/step - loss: 0.9265
+
+Generated Text
+--------------------------------
+o so powne
+  Which thy sweet self resembless to me are,
+  When thou art black with thee repory see,
+
+Epoch 33/50
+100220/100220 [==============================] - 177s 2ms/step - loss: 0.8921
+
+Generated Text
+--------------------------------
+ that thou art thee.
+
+  CXXI
+
+  The wist thou art thou gaves that thou art thought,
+  I so forgut th
+Epoch 34/50
+100220/100220 [==============================] - 176s 2ms/step - loss: 0.8582
+
+Generated Text
+--------------------------------
+ think the time do do mine own sweet see;
+  Then what coners thou mind the deeds of truth,
+  And it
+Epoch 35/50
+100220/100220 [==============================] - 178s 2ms/step - loss: 0.8279
+
+Generated Text
+--------------------------------
+ometime decay,
+  Thence all best is presences to me some grown;
+  But is that thou art thou mind thi
+Epoch 36/50
+100220/100220 [==============================] - 176s 2ms/step - loss: 0.7973
+
+Generated Text
+--------------------------------
+   So thou be forgets to make me and spirit,
+    That thou dost beauty making my love was me,
+    To
+Epoch 37/50
+100220/100220 [==============================] - 181s 2ms/step - loss: 0.7660
+
+Generated Text
+--------------------------------
+beauty stranged unseem'd a cume be now,
+  To that summer's strengt my with thee doth lies,
+  To hate
+Epoch 38/50
+100220/100220 [==============================] - 182s 2ms/step - loss: 0.7386
+
+Generated Text
+--------------------------------
+ art of me thou art,
+  If thou art sometime love thou my strength
+  As unseets to make and that whic
+Epoch 39/50
+100220/100220 [==============================] - 169s 2ms/step - loss: 0.7102
+
+Generated Text
+--------------------------------
+is love'.
+
+  XXXII
+
+  If the dost I boloty doth to be alt,
+  Thou blen ever by the world's desposing
+Epoch 40/50
+100220/100220 [==============================] - 166s 2ms/step - loss: 0.6856
+
+Generated Text
+--------------------------------
+the world cunsen each handing thy praise,
+    For then, age thou art the world worss conson'd.
+  The
+Epoch 41/50
+100220/100220 [==============================] - 167s 2ms/step - loss: 0.6581
+
+Generated Text
+--------------------------------
+nd yet thou thoughts, so endirnct thy perte.
+
+  XLVIII
+
+  How care thee thou art thy sweet respestio
+Epoch 42/50
+100220/100220 [==============================] - 166s 2ms/step - loss: 0.6307
+
+Generated Text
+--------------------------------
+t love,
+  Thy newer that is not wo do not deceasing,
+  And do shapor gazed, and my love doth feart;
+
+Epoch 43/50
+100220/100220 [==============================] - 166s 2ms/step - loss: 0.6093
+
+Generated Text
+--------------------------------
+ discontent;
+  To much all tyingr makn of death do plaide?
+  O! love to remover than my love well kn
+Epoch 44/50
+100220/100220 [==============================] - 166s 2ms/step - loss: 0.5883
+
+--------------------------------
+ lines thine all ortwor'd,
+  So enr hear where it is anowher morn;
+  Whits I letsen stars to the swe
+Epoch 45/50
+100220/100220 [==============================] - 166s 2ms/step - loss: 0.5657
+
+Generated Text
+--------------------------------
+ingl formess,
+  That they in their racking geats to self with;
+    And though thou shalt when thou f
+Epoch 46/50
+100220/100220 [==============================] - 166s 2ms/step - loss: 0.5427
+
+Generated Text
+--------------------------------
+n your praise the still with perpecide,
+  She ofom shadow shadow aptye offerce:
+  From shine ewrepti
+Epoch 47/50
+100220/100220 [==============================] - 181s 2ms/step - loss: 0.5199
+
+Generated Text
+--------------------------------
+ which look into my brenss,
+  As I absent flowe the think in me is sand?
+  O! if it surmive when who
+Epoch 48/50
+100220/100220 [==============================] - 181s 2ms/step - loss: 0.5054
+
+Generated Text
+--------------------------------
+rimage:
+  But when my love swear that is in the was,
+  Thou in the to the my bad, against stand,
+  A
+Epoch 49/50
+100220/100220 [==============================] - 180s 2ms/step - loss: 0.4864
+
+Generated Text
+--------------------------------
+ I love thee in such sort,
+    As thou being mine, bet thou thy sweet self dorth,
+  And have I do no
+Epoch 50/50
+100220/100220 [==============================] - 174s 2ms/step - loss: 0.4703
+
+Generated Text
+--------------------------------
+ best
+  The world's feest cayes no chercerning stay
+  The more than have affornd my sight mine eye,
+
+
+Generated Text
+--------------------------------
+eatless the destry dad.
+    The humble in the breath of to hath hend
+  That thy precious parts surmoun;
+  In than mine eye a mad then summer's green,
+  That I in thy beauty thoughts eyes now in,
+  Aiver on this say every why dies
+  That to thy beauty being croud our night,
+  And truth far fleetuld do aunit edes.
+  Then seemple graven to show my will;
+  When I whit thy self arone after day knows
+  The one doth memory detarny new.
+    You are steal that which thou dost beate to thee,
+  The best as thou art of my lame usseat
+  Tay more be beauty line unchanding spend:
+  Though you do rickle numbers to menuse,
+  Or thou seem thou art as by child so still,
+  To true mine eyes of thy dear heaven to stend
+    The perfule lefting shaded more lips to thee.
+
+  IX
+
+  Those langh mandst my give than this love till,
+  Who earkn to stay the humble ad all tinese
+  The eyes her make me than cand and heart's right?
+  If thou wilt be straight thy love, and love,
+  And you my fair no pare is love's destry,
+  And but in their swarting some of thy deed,
+  Then hath the dublt badest too must filst to breast.
+  Thou that I have with me, then still to see,
+  Then let my heart thy seem to decaid now.
+
+  XXIV
+
+  If thy stay that thou dost truth thou art gre,
+  And your sweet tome doing same offecterity.
+    Then calls the with her, and my amisin east.
+
+  CXXII
+
+  Thy glass will be thy charge my mistress rade,
+    And love, of thee gentle heast, whice steal her ere,
+  Dithon the tongue-time prine of se
