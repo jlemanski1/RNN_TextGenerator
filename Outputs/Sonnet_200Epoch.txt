@@ -1,0 +1,1104 @@
+  To enversures in of
+Epoch 83/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1863
+
+Generated Text
+--------------------------------
+   For fear of which, hear this in my behant,
+    The worst of powers'd which I hapty penpail.
+
+  LI
+Epoch 84/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.2001
+
+Generated Text
+--------------------------------
+all art of beauty set,
+  And for myself, and such a havaly trush,
+  Colly vixtue and therefore of de
+Epoch 85/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.2025
+
+Generated Text
+--------------------------------
+ate
+  Which to remagrour than in my bod;
+    Thy should lise thing, I was thy strengles' heme.
+  The
+Epoch 86/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1879
+
+Generated Text
+--------------------------------
+r ad rank,
+  When in hast thou wilt lov'd, if for for wors
+  How write to make grear then faults con
+Epoch 87/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1817
+
+Generated Text
+--------------------------------
+e wantonness
+  The ome can lives forsward of thy hels not made:
+  Somen in the rain and seemory bedo
+Epoch 88/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1725
+
+Generated Text
+--------------------------------
+canker eat him up to deate.
+    II aightire, al! those blust that weils she thee.
+    Those body war
+Epoch 89/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1959
+
+Generated Text
+--------------------------------
+still and all heav, yournels.
+
+  CXXX
+
+  Why dobling, but find of since hath doth git,
+  And in my m
+Epoch 90/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1843
+
+Generated Text
+--------------------------------
+ee just upos me,
+  Thy some chest the sumone had streaght be peccupe,
+  In seep to more thene in eve
+Epoch 91/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1679
+
+Generated Text
+--------------------------------
+l, your friend have cheeks faise.
+    Pity the winders bount of beil, use to love,
+    Prids not thy
+Epoch 92/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1760
+
+Generated Text
+--------------------------------
+thou lov'st elsewhere; but in ever.
+  O! in most leage with thy tougumes kinc
+  Though it no most wi
+Epoch 93/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1650
+
+Generated Text
+--------------------------------
+ XX
+
+  A woman's face with nature's own hand painted,
+  Which I by hangmex's distill'd cruch deed;
+
+Epoch 94/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1928
+
+Generated Text
+--------------------------------
+ks with me, thy heart in other place:
+  For there can live no her byourd more forge,
+  With instong
+Epoch 95/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1650
+
+Generated Text
+--------------------------------
+ had,
+  More than the first of good of spy intiou,
+  A till that good olly once than hell hatel.
+
+
+Epoch 96/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1472
+
+Generated Text
+--------------------------------
+hy reasons making no defence.
+  Thou canst not love disgrace me hart me have,
+  Though I have sweet
+Epoch 97/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1643
+
+Generated Text
+--------------------------------
+ed by authority,
+  And folly--doctor-like--controlling skill,
+  And simple truth might true is losg
+Epoch 98/200
+100220/100220 [==============================] - 155s 2ms/step - loss: 0.1729
+
+Generated Text
+--------------------------------
+th smow!
+  The show apted ander which we't from you-
+  And for that kind, which thou dest heme still
+Epoch 99/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1734
+
+Generated Text
+--------------------------------
+r in my self aries.
+
+  XXXIX
+
+  Sur can my mistress' what shalt in thine express'd.
+    Le! though t
+Epoch 100/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1644
+
+Generated Text
+--------------------------------
+and wish I be call'd him morn,
+  Whill speed not when hear from they being bedst,
+  And seem to brak
+Epoch 101/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1489
+
+Generated Text
+--------------------------------
+in me that I am ond,
+  Speep to be blessed nuguer's suire in thie.
+  May need me when I houds not be
+Epoch 102/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1481
+
+Generated Text
+--------------------------------
+r mune in my: mote;
+    Since shall I live, and this, I dispen'd to dell.
+
+  LXXV
+
+  So as t me thou
+Epoch 103/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1739
+
+Generated Text
+--------------------------------
+s happier that privol'd of mind:
+    Henceites in thee that can treemonts conse,
+    But fill and my
+Epoch 104/200
+100220/100220 [==============================] - 155s 2ms/step - loss: 0.1873
+
+Generated Text
+--------------------------------
+.
+  How many lambs might the stern wolf before,
+  And for thy restort, to spirit beauty,
+  And to by
+Epoch 105/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1452
+
+Generated Text
+--------------------------------
+lays;
+  As Philomel in summer's wroters deward,
+  And all the fauly most my glases thee they Sage;
+
+Epoch 106/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1243
+
+Generated Text
+--------------------------------
+eautiful old rime,
+  In praise of ladies dead and lovely knights,
+  Then, in the blazon of sweet bea
+Epoch 107/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1293
+
+Generated Text
+--------------------------------
+ breath;
+  But, for his theets in the grownowid doth sing,
+  Whose pleady my life, rightle mind exce
+Epoch 108/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1482
+
+Generated Text
+--------------------------------
+her's self in ever dote,
+  But beauty still, and my love's eir,
+  Cool is is a winty, whom in my hea
+Epoch 109/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1771
+
+Generated Text
+--------------------------------
+l full wishoued every eye
+    Sw alowners shados, to thee, for a laire.
+
+  XXIII
+
+  When my love san
+Epoch 110/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1571
+
+Generated Text
+--------------------------------
+nt, all bare, fround she living good,
+  What her is benothed in her prives.'
+    O! none, upon thy s
+Epoch 111/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1477
+
+Generated Text
+--------------------------------
+not so;
+  Of their dongry my self thee hours of see,
+  The rost past pure with all beauty estue'd
+
+Epoch 112/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1363
+
+Generated Text
+--------------------------------
+e may
+  Triumph in love; flesh stays no lovery it,
+  Telly compounds with teach from youths once:
+
+Epoch 113/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1302
+
+Generated Text
+--------------------------------
+ have, where is my judgment fled,
+  That carms be fair your love be thy defentente:
+  To--day not in
+Epoch 114/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1378
+
+Generated Text
+--------------------------------
+on that thou must live thee:
+  If it wonken, on the tombs of praise doth,
+  Whilst I ampervans, but
+Epoch 115/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1352
+
+Generated Text
+--------------------------------
+s it out even to the edfecous,
+  And patiend, where of yourners when their bright.
+  Hath my not, no
+Epoch 116/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1371
+
+Generated Text
+--------------------------------
+e is thine one, one gold,
+  That that her own from thy aphing mady not knows,
+    Suncetfilsen to me
+Epoch 117/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1526
+
+Generated Text
+--------------------------------
+ame nor me nor you.
+    For afath! when do I in not falst in change,
+    But hink on hear, where is
+Epoch 118/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1480
+
+Generated Text
+--------------------------------
+t thou steal thy sweet,
+  With which no that what complack is to dend?
+  If my that with this glaces
+Epoch 119/200
+100220/100220 [==============================] - 154s 2ms/step - loss: 0.1297
+
+Generated Text
+--------------------------------
+ love to-day, to-morrow kind,
+  That it not so nover upon me in doid,
+  That thou not for thy mourly
+Epoch 120/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.2282
+
+Generated Text
+--------------------------------
+e spring,
+  When proud pursuing in their earth's will,
+  A thore rast posteris'd should be to mine,
+
+Epoch 121/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.8358
+
+Generated Text
+--------------------------------
+ere our mayst with thoughts.
+  Or me than vicker minits creat doth live,
+  And put a compound in the
+Epoch 122/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.4834
+
+Generated Text
+--------------------------------
+n when her mead worse world to gloarest crward,
+  And part in wromm; thy doth cance abuse dece?se
+
+Epoch 123/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.2599
+
+Generated Text
+--------------------------------
+ hold my tongue:
+    Piese of eyes to be, all of me turns more know.
+
+  CXXVI
+
+  Bethis thou, shall
+Epoch 124/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1623
+
+Generated Text
+--------------------------------
+ he insults o'er dull and speechless tribes:
+    And thou thy much it winter may I sind.
+
+  CXLI
+
+
+Epoch 125/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1099
+
+Generated Text
+--------------------------------
+methods, and to compounds strange?
+  Why write I still all one, ever the same,
+  And keep invention
+Epoch 126/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0837
+
+Generated Text
+--------------------------------
+rance of things past,
+  I sigh the lack of many a thing I sought,
+  And with old woes new wail my de
+Epoch 127/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0739
+
+Generated Text
+--------------------------------
+'d; behind a dream.
+    All this the world well knows; yet nonge--
+  And art a wood decaid'st fort f
+Epoch 128/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0841
+
+Generated Text
+--------------------------------
+de?
+  Let me excuse thee: ah! my love well knows
+  Her pretty looks have been mine eyes say,
+  Be pa
+Epoch 129/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1407
+
+Generated Text
+--------------------------------
+d her quietus is to renter told.
+
+  LVII
+
+  When my love sweet to drack thee wormstents
+  Withil tha
+Epoch 130/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1787
+
+Generated Text
+--------------------------------
+ ten for one;
+  To shalt thou son's it would to fear unkird
+  That this shadows dut my all fooursone
+Epoch 131/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1480
+
+Generated Text
+--------------------------------
+ds before,
+    Her still lies in this, and thee my dear de-end.
+
+  XXXIX
+
+  O! how my love that you
+Epoch 132/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1196
+
+Generated Text
+--------------------------------
+without attains of mine,
+  Robbence as my self thou thee more befores,
+  To love, and look save that
+Epoch 133/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1028
+
+Generated Text
+--------------------------------
+wits nor my figens cheymong still,
+    that have rutfor as my adjuring for thee rens.
+
+  XXI
+
+  But
+Epoch 134/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1159
+
+Generated Text
+--------------------------------
+For how do I hold thee but by thy granting?
+  And for that riches where is my judgstring;
+  And for
+Epoch 135/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1320
+
+Generated Text
+--------------------------------
+ whose worthiness gives scope,
+    Being had, to triumphals through maym'd filind.
+
+  L
+
+  Is slage!
+Epoch 136/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1550
+
+Generated Text
+--------------------------------
+  And age in love, loves not to have seen decay;
+  Ana dlamn yet, lies in men, whom mourners hear,
+
+Epoch 137/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1462
+
+Generated Text
+--------------------------------
+ine own what is masker smame:
+  So thou thy bedath now with my love so it,
+  Termong thy proosed of
+Epoch 138/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1218
+
+Generated Text
+--------------------------------
+k in thy glass and tell the face thou viewest
+  Now is the time that face should form another;
+  Who
+Epoch 139/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1126
+
+Generated Text
+--------------------------------
+And then thou lov'st me for my name is 'Will.'
+
+  CXXXVII
+
+  Thou blind foo his chapoutious hand tru
+Epoch 140/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1207
+
+Generated Text
+--------------------------------
+st.
+  Great princes' favourites their fair leaves spread
+  But no made the parity clemoury;
+  'This
+Epoch 141/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1345
+
+Generated Text
+--------------------------------
+ love stol'n from mine eye doth.'
+
+  CXV
+
+  Those life live, nor tilless thou ast, thou alt ont:
+
+Epoch 142/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1367
+
+Generated Text
+--------------------------------
+e as uprest might,
+  And by others' love-guring to remov'st king
+  As thy poights or mouth will be t
+Epoch 143/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1163
+
+Generated Text
+--------------------------------
+flaming brand,
+  Whilst many my presence with in thine outworn,
+  Thy sightless witless wostest chil
+Epoch 144/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1038
+
+Generated Text
+--------------------------------
+ent shadow so false in preise.
+  I cair it eyes shall see their ant do bud,
+  As to disgrace canlles
+Epoch 145/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1158
+
+Generated Text
+--------------------------------
+tongue;
+  Nor chisk that thou should thou hadst thou strange.
+  When that I wince I do be refocted s
+Epoch 146/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1485
+
+Generated Text
+--------------------------------
+st thou that mine own writh doth come,
+  Canly then eyes, eyes are my age with blame thee,
+  And suc
+Epoch 147/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1406
+
+Generated Text
+--------------------------------
+ccidents
+  Creep in 'twixt vows, and change decrees of kings,
+  Tan sacred beauty, blunt the heart t
+Epoch 148/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1020
+
+Generated Text
+--------------------------------
+all abone,
+  These vary conricked forshoul helse hand tream:
+  O! but Time, and yet nother than my d
+Epoch 149/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0885
+
+Generated Text
+--------------------------------
+ thou after that which flies from thee,
+  When beauty's controll'd in mine ow hepted:
+  Then have I
+Epoch 150/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1027
+
+Generated Text
+--------------------------------
+ thou art my adise.
+
+  CXII
+
+  Thy bost can men that that memelims plag,
+  To live in this timp'd st
+Epoch 151/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1334
+
+Generated Text
+--------------------------------
+If my slight muse do please these curious doose.
+
+  LXXII
+
+  Shall I ancer me worsaid with thee goil
+Epoch 152/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1374
+
+Generated Text
+--------------------------------
+Hear'd in their gaids my most make seem
+  Call'd thou art full thine o'er-uprestaity lies,
+  When I
+Epoch 153/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1380
+
+Generated Text
+--------------------------------
+y beauty, and your beauty is so merrove:
+  Then comstsend heaven, why trough a lost wells
+    Anl th
+Epoch 154/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1179
+
+Generated Text
+--------------------------------
+eager compounds wath that him athor;
+  Anone him the selen besorr I will kind,
+  Or wen the sparity
+Epoch 155/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0802
+
+Generated Text
+--------------------------------
+ehold
+  When yellow leaves, or none, or few, do hang
+  Upon those bastsw if it befter'd brows rang,
+
+Epoch 156/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0765
+
+Generated Text
+--------------------------------
+
+  Thy worth the greater being woo'd of time;
+  For canker vice cheek me with wilture mair,
+  So for
+Epoch 157/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1044
+
+Generated Text
+--------------------------------
+o me, that ithites as my thine,
+  That do not so fair with heats any shall be,
+  The one their perju
+Epoch 158/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1526
+
+Generated Text
+--------------------------------
+ter'd that the wombland steal has moon,
+  When thou wilt reparits cond the content
+  Of friend' to s
+Epoch 159/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1581
+
+Generated Text
+--------------------------------
+ my disevur'd time love to one own;
+  And for the precase corrockence is the sen,
+  And all the prov
+Epoch 160/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1147
+
+Generated Text
+--------------------------------
+seldom coming in that love to claysnot chanse.
+    But where yet of thee I not, my love and teme,
+
+Epoch 161/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0902
+
+Generated Text
+--------------------------------
+ short-number'd hours,
+  But all alone stands hugely politic,
+  The world will knows my soul my hang
+Epoch 162/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0705
+
+Generated Text
+--------------------------------
+without-end hour,
+  Whilst I, my sovereign, watch the clock for mend.
+
+  LVIII
+
+  When my love swear
+Epoch 163/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0627
+
+Generated Text
+--------------------------------
+st buds doth love,
+  And thou precious minitieng in her mad'dreys be;
+    On thou will be forgit mad
+Epoch 164/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1189
+
+Generated Text
+--------------------------------
+ do see:
+  Save the ear nuggers alone hast to be,
+  That my bost frim my hervers to slow
+  Steally a
+Epoch 165/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.2205
+
+Generated Text
+--------------------------------
+,
+  They had not skill edoust by add the strye
+  Asteffece my soter's deets mute woeld bring,
+  And
+Epoch 166/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1373
+
+Generated Text
+--------------------------------
+of better equipage:
+    But since he died and poets better prove,
+    Theirs for their style I'll re
+Epoch 167/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0730
+
+Generated Text
+--------------------------------
+alve, which wounded most own beard;
+  Whose will best is disgained to sunstine;
+  Make shill me form
+Epoch 168/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0461
+
+Generated Text
+--------------------------------
+hat from my mistress reeks.
+  I love to hear her speak, yet well I know
+  That music hath a far more
+Epoch 169/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0350
+
+Generated Text
+--------------------------------
+still keep, her treasure:
+    Her audit (though delayed) answered must be,
+    And her quietus is to
+Epoch 170/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1128
+
+Generated Text
+--------------------------------
+udely strum post blook;
+  When a canking have be bleck the pleasues doot,
+  Indoring andourd by thie
+Epoch 171/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.3259
+
+Generated Text
+--------------------------------
+t in walls of glass,
+  Beauty's enchounce hose bleshes are both dust,
+  Or handed, tomat, the presen
+Epoch 172/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1539
+
+Generated Text
+--------------------------------
+  When in the least of these rain thoughts on thee:
+  And then first I truth upon thy ginds
+  That i
+Epoch 173/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0733
+
+Generated Text
+--------------------------------
+tains,
+    And thy greet me should blunkless with love,
+    And their dwempys--greet beauty's duely
+Epoch 174/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0394
+
+Generated Text
+--------------------------------
+argument.
+  Rise, resty Muse, my love's sweet face survey,
+  If Time have any wrinkle graven there;
+
+Epoch 175/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0234
+
+Generated Text
+--------------------------------
+change your day of youth to sullied night,
+    And all in war with Time for love of you,
+    As he t
+Epoch 176/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0137
+
+Generated Text
+--------------------------------
+merit lived in me, that you should love
+  After my death,--dear love, forget me quite,
+  For you in
+Epoch 177/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0080
+
+Generated Text
+--------------------------------
+ed,
+    Where time and outward form would show it dead.
+
+  CIX
+
+  O! never say that I was false of h
+Epoch 178/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0061
+
+Generated Text
+--------------------------------
+ Not prizing her poor infant's discontent;
+  So runn'st thou after that which flies from thee,
+  Whi
+Epoch 179/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0050
+
+Generated Text
+--------------------------------
+at right.
+  My heart doth plead that thou in him dost lie,--
+  A closet never pierc'd with crystal e
+Epoch 180/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0042
+
+Generated Text
+--------------------------------
+aven the best,
+    Even to thy pure and most most loving breast.
+
+  CXI
+
+  O! for my sake do you wit
+Epoch 181/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0036
+
+Generated Text
+--------------------------------
+ this alchemy,
+  To make of monsters and things indigest
+  Such cherubins as your sweet self resembl
+Epoch 182/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0031
+
+Generated Text
+--------------------------------
+
+  Why is my verse so barren of new pride,
+  So far from variation or quick change?
+  Why with the t
+Epoch 183/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.8833
+
+Generated Text
+--------------------------------
+o my colfure thy grant,
+  And slaide--but spities that form from fordan'd:
+    As the ear hand the b
+Epoch 184/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.6782
+
+Generated Text
+--------------------------------
+rance what it will,
+  That efeeble therevised ears or their hathts;
+  But to the star that which hav
+Epoch 185/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.2838
+
+Generated Text
+--------------------------------
+rn away,
+  For itlerr that by ar moth reworr'd stranse.
+  But do the witled injurt may be the stay
+
+Epoch 186/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.1455
+
+Generated Text
+--------------------------------
+ost heaves when thou bestieg in thine;
+  And pectur'd this with angel man and ruin
+  have procestion
+Epoch 187/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0900
+
+Generated Text
+--------------------------------
+ence is soon alines,
+  Making a complacies is to shop his growned:
+  Now it do not live, in 'This nu
+Epoch 188/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0569
+
+Generated Text
+--------------------------------
+woman wert thou first created;
+  Till Naty; 'Will weath to me worsd's fore
+  As yot my verse hours b
+Epoch 189/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0452
+
+Generated Text
+--------------------------------
+For at a frown they in their glory die.
+  The painful warrior famoused for fight,
+  After a thousand
+Epoch 190/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0509
+
+Generated Text
+--------------------------------
+ast passed by the risel carr inow
+  One thath to make he world ever eyes sink;
+  Against that withis
+Epoch 191/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.2082
+
+Generated Text
+--------------------------------
+ady unudest may,
+  Discuse me beruties of my hearty so;
+  Some; mate me, not be not both nee so grea
+Epoch 192/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.2272
+
+Generated Text
+--------------------------------
+mone her my state,
+  And summer's ruin'd, but then far thee in love:
+    Sweet thinks grow thy self
+Epoch 193/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.1141
+
+Generated Text
+--------------------------------
+serts?
+  Though yet heaven knows it is but as a tomb
+  Which hid it golden spridg a day my tressmine
+Epoch 194/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0683
+
+Generated Text
+--------------------------------
+ bige, but not with dear love's fire,
+    For that thine should be then thou mayst store,
+  Whilst t
+Epoch 195/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0414
+
+Generated Text
+--------------------------------
+end them back again, and straight grow sad.
+
+  XLVI
+
+  Mine eye and heart are at a mortal war,
+  How
+Epoch 196/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.0304
+
+Generated Text
+--------------------------------
+ing mute,
+  When others would give life, and bring a tomb.
+    There lives more life in one of your
+Epoch 197/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0526
+
+Generated Text
+--------------------------------
+whose confine immured is the store
+  Which his for him gracious springs hooks;
+  And love to save an
+Epoch 198/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.3260
+
+Generated Text
+--------------------------------
+rfie sight,
+  Whone hanty in grouds a jew his sprine!
+  Whan to thee all antwore remove the rested;
+
+Epoch 199/200
+100220/100220 [==============================] - 153s 2ms/step - loss: 0.2052
+
+Generated Text
+--------------------------------
+nce addeth to his store;
+  So thou, being rich in 'Will,' add to thy 'Will'
+  And 'Will'd this learn
+Epoch 200/200
+100220/100220 [==============================] - 152s 2ms/step - loss: 0.0883
+
+Generated Text
+--------------------------------
+bark, inferior far to his,
+  On your broad main doth wilfully appear.
+  Your shallowest help will ho
+
+Generated Text
+--------------------------------
+t should do thee shame,
+  Nor thou with public lips on me so liel,
+  Thy sigh thy parturn of the strenged,
+  And killy inveridg to the waste
+  Dringly dest depend, so crecker nemied ever.
+  Ore mut the judgemed an enes of men,
+  Sppayite of thine, and love as quick vere
+  Athers to witer itser somen's former in
+  Anven ear love,
+  And look us by adigured painted enjoy,
+  Look may be inder's thence whereon mistress
+  Of burg in conour; be of excelles'scrive:
+  But when more summer's hant, your self thine,
+    My love swift chunk mame doth penful Time,
+    And their praise thee haw thy chorgh hath to thee,
+    And that in pursoon by old assaine, shorl.
+
+  CXXXVII
+
+  What thou art as my me worthing seak,
+  Though in hearth, wronght of action and excuse,
+  I sue at flower weat her I doth fear,
+  Had is thy presenthough think when thy stay:
+    Therefore I day and my admory is sunge,
+    me bland not do in my deed ably may
+    The may lives authorit past prised him ort.
+
+  LXIV
+
+  So all they look into my tell eyes I
+  Then be thy wirts, world shor dear love's lovely?
+  But I for my sing me is gainta call
+  The acting my heart knows the clood with sweat:
+  Your tomble grounds of the friends have every,
+  And heaven's are not thy from my seaves sprease,
+  Being ack did other made of thy dear,
+  Thy death drew mose praise dearns no cold,
+  By all your power, ouch in thee that living bad!
+
+  CXXIV
+
+  So in my vellen up to rembarting,
+  For I was were brain by than in my sight
+  Is penceing compound time and this hide;
+    Or sun of love, and thee I am not ears
+  You shad versance adder proud lips to come,
+  If I am state when thou art my weil
+
+  And boster stand by day, by sperpared bread;
+  The right mine eyes and foul of spain, and in,
+   tround my ear a bying spitle appear;
+    Faver is not sour'st this tables authout fleem.
+
+  LXXII
+
+  Who art thou, medell of thy love away,
+  Unless away, and with Altersance aficht'st his prows.
+  In my perfurl, besceiteous bired eace,
+  And year heart thrispless'd might befure my heart.
+
+  LXXVII
+
+  A! wo, I am fave, what I say this than held,
+  The heaven that thou worth thee hours doth skill,
+  Whome in the beauty of thy love sweetel
+  By adien's there with beauty's forght rides tayst
+  And say a vow'd which be oldencession fiend,
+  And beast in the courty on my heart
+  Or beauty hasten's thee in mustry mair,
+  Comiling ad it disgaz'd whereit of thine.
+  And the ear night rinking change, as all,
+  The ofor of thee this loving love you deemsh:
+  Your summer shall not seem then heaven you keem
+  But that appears to the heart a sweak thee more,
+    My great in marns prouding bown that look,
+    Kill my looks with this, least or me but had weend:
+  So that so compound with with thy content,
+  Of thou with mind'st figh thy seast can mude
+  While to thy sweet senfore hath my lifest;
+  Against the windy, and of arthony,
+  My love ears with my adgetch'd well book;
+  Procing this window, for my sind every,
+  And a bring a
