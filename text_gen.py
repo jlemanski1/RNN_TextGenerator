@@ -1,11 +1,23 @@
+#!/usr/bin/python
+
+import argparse
 import numpy as np
 from keras.models import Sequential
 from keras.layers import LSTM, Dense, Activation
 from keras.callbacks import Callback
 from random import randint
 
+# Arguments
+parser = argparse.ArgumentParser(description='Testing argparse for use in other scripts')
+parser.add_argument('-i', dest='inputFile',required=True ,help="Used for specifying an input file to train with.")
+parser.add_argument('-o', dest='outputFile', help="Used for specifying an output file")
+parser.add_argument('-e', dest='epochs', required=True, type=int, help="Number of epochs to train for")
+parser.add_argument('-s', dest='sampleSize',required=True, type=int, help="Sample size to generate (char count).")
+
+args = parser.parse_args()
+
 # Open Trainging Dataset
-with open('TrainingData/sonnets.txt', 'r') as file:
+with open(args.inputFile, 'r') as file:
     corpus = file.read()
 
 # Extract unqie chars to list
@@ -18,7 +30,7 @@ idx_to_char = {i: c for i, c in enumerate(chars)}
 
 sentence_length = 50 #  length of words to learn what the next should be
 sentences = []
-next_chars = []
+next_chars = []'TrainingData/sonnets.txt'
 
 for i in range(data_size - sentence_length):
     sentences.append(corpus[i: i + sentence_length])
@@ -83,12 +95,12 @@ class SamplerCallback(Callback):
 
 # Set paramters and Sample from the model
 sampler_callback = SamplerCallback()
-model.fit(X, y, epochs= 200, batch_size=256, callbacks= [sampler_callback])
+model.fit(X, y, epochs= args.epoch, batch_size=256, callbacks= [sampler_callback])
 
 # Get final sample and print
-generated_text = sample_from_model(model, sample_length= 3000)
+generated_text = sample_from_model(model, sample_length= args.sampleSize)
 print('\nGenerated Text')
 print('-' * 32)
 print(generated_text)
 
-# TODO: Make epochs, sample_length, and training file a parameter (or command option)
+# TODO: Use outputFIle arg to specify an output file, otherwise output to terminal
