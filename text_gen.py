@@ -30,7 +30,7 @@ idx_to_char = {i: c for i, c in enumerate(chars)}
 
 sentence_length = 50 #  length of words to learn what the next should be
 sentences = []
-next_chars = []'TrainingData/sonnets.txt'
+next_chars = []
 
 for i in range(data_size - sentence_length):
     sentences.append(corpus[i: i + sentence_length])
@@ -95,7 +95,7 @@ class SamplerCallback(Callback):
 
 # Set paramters and Sample from the model
 sampler_callback = SamplerCallback()
-model.fit(X, y, epochs= args.epoch, batch_size=256, callbacks= [sampler_callback])
+model.fit(X, y, epochs= args.epochs, batch_size=256, callbacks= [sampler_callback])
 
 # Get final sample and print
 generated_text = sample_from_model(model, sample_length= args.sampleSize)
@@ -104,3 +104,4 @@ print('-' * 32)
 print(generated_text)
 
 # TODO: Use outputFIle arg to specify an output file, otherwise output to terminal
+# TODO: Refactor file to properly account for each argument
